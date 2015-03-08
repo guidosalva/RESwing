@@ -1,5 +1,8 @@
 target
 .idea
+.classpath
+.project
 *.iml
 */bin
 */.cache
+
