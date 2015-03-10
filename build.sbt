@@ -1,4 +1,4 @@
-name := "RESwing"
+name := "reswing"
 
 organization := "de.tuda.stg"
 
